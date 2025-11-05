@@ -6,7 +6,7 @@
 
 ## Support for generating from these systems
 
-- Linux (x86_64 or arm64)
+- Linux (x86_64 or arm64).
 
   The following dependencies are required:
 
